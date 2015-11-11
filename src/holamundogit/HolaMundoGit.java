@@ -18,7 +18,7 @@ public class HolaMundoGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
-        System.out.println("Naranja");
+        System.out.println("Banana");
         System.out.println("Widowmaker");
         System.out.println("Asiimov");
 
